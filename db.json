@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Arthur Feliciano",
+      "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+      "telefone": "81 988553424"
+    },
+    {
+      "id": 2,
+      "nome": "Bianca Cristian",
+      "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+      "telefone": "81 998765332"
+    },
+    {
+      "id": 3,
+      "nome": "Victor Alexandre",
+      "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+      "telefone": "81 987765525"
+    }
+  ]
+}
